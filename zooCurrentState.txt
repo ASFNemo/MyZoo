@@ -1,0 +1,39 @@
+zoo:
+ice cream:30
+steak:25
+fish:25
+fruit:25
+celery:25
+hay:30
+enclosure:0
+ice cream:5
+steak:4
+fish:5
+fruit:5
+celery:10
+hay:20
+Play Zookeeper:0
+enclosure:0
+ice cream:5
+steak:3
+fish:5
+fruit:5
+celery:15
+hay:6
+Play Zookeeper:1
+enclosure:0
+ice cream:5
+steak:5
+fish:4
+fruit:5
+celery:10
+hay:20
+zookeeper:2
+enclosure:49609
+ice cream:5
+steak:5
+fish:5
+fruit:5
+celery:10
+hay:20
+Play Zookeeper:3
